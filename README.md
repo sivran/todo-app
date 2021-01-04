@@ -1,4 +1,30 @@
-# Getting Started with Create React App
+# Todo app
+
+## User stories
+As a user I want to...
+* View a list of tasks
+* Add tasks
+* Mark tasks as completed
+* Delete tasks
+* Edit tasks
+
+## Technical requirements
+* Use typescript
+* Use [scss modules](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/) for styling
+* Use components from dnb-ui-lib when suitable
+* The app should be usable by keyboard users
+
+## Tips
+* You can use nanoid to generate a random id when adding a todo (The dependency is already added to this project)
+* If you are stuck see branch [Solution](https://bitbucket.tech.dnb.no/users/sivert.randen/repos/todo-app/browse?at=refs%2Fheads%2Fsolution)
+
+## Resources 
+* [Official react docs](https://reactjs.org/docs/getting-started.html)
+* [Official typescript docs](https://www.typescriptlang.org/docs/)
+* [Typescript react cheat sheet](https://github.com/typescript-cheatsheets/react)
+* [Eufemia docs](https://www.typescriptlang.org/docs/)
+
+# Create React App Readme below!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
