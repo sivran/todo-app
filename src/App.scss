@@ -1,0 +1,10 @@
+.App {
+  width: 100%;
+  max-width: 60rem;
+  padding: 0 1 rem;
+  margin: 0 auto;
+
+  @media (max-width: 40em) {
+    padding: 0;
+  }
+}
